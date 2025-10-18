@@ -15,7 +15,6 @@ This section captures my understanding and practice of proper workplace etiquett
 <h2>Screenshots:</h2>
 
 Work Etiquette: <br/>
-![careerrr](https://github.com/user-attachments/assets/1bed9815-6866-4ec8-b982-81fe5dde57f4)
-
 <br />
 <br></br>
+<img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/c1df1d5b-65da-4184-9c2e-4dbb0634caf5" />
